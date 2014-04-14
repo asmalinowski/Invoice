@@ -1,0 +1,4 @@
+Invoice
+=======
+
+Displays an invoice.
